@@ -10,6 +10,11 @@
 ### A 3D-printable lid for my diffuser
 ![dragon_top_screenshot](https://user-images.githubusercontent.com/70079907/236369623-d05c6098-bd6c-4f7b-86e8-727a101b5770.png)
 
+### Lightpole
+- Created for a Godot project
+- Rendered in 4K; Github limited the upload size.
+<img width="508" alt="Screen Shot 2023-05-04 at 10 22 05 PM" src="https://user-images.githubusercontent.com/70079907/236371360-c7a40110-e4d7-48b7-a9ee-45ab5359c313.png">
+
 ## Godot Works
 ### [Plunger](https://github.com/aidan-j-rhoden/plunger) (*IN PROGRESS*)
 - A server-authoritative FPS multiplayer
