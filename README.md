@@ -1,8 +1,8 @@
 # Hi, I’m @aidan-j-rhoden
 - I’m currently learning 3D design, efficient rendering, and animation with [Blender](https://www.blender.org).
-- I love the [Godot Engine](https://github.com/godotengine/godot)!
-- I am certified in IT and Automation with Python, through Google's course offered on Coursera.
-- You can reach me at aidan.j.rhoden@gmail.com, or on [LinkedIn](https://www.linkedin.com/in/aidan-rhoden-562aa5255/)
+- I love FOSS like the [Godot Engine](https://github.com/godotengine/godot) and Blender!
+- I am certified in [IT and Automation with Python](https://www.coursera.org/account/accomplishments/specialization/certificate/49JQDZ8ZFN9J), through Google's course offered on Coursera.
+- You can reach me at aidan.j.rhoden@gmail.com, or on [LinkedIn](https://www.linkedin.com/in/aidan-rhoden-562aa5255/).
 
 ## Blender Works
 ### My inedible donut (#[TheDonutTutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD))
