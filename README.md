@@ -10,7 +10,7 @@
 (more donuts [here](https://photos.app.goo.gl/aC7BMMU5P5ozMJSZ7))
 ### A 3D-printable lid for my diffuser
 <img width="600" alt="Dragon head screenshot" src="https://user-images.githubusercontent.com/70079907/236369623-d05c6098-bd6c-4f7b-86e8-727a101b5770.png"><img width="400" alt="A 3D-printed dragon lid for a diffuser" src="https://user-images.githubusercontent.com/70079907/236529556-ab1a0b18-76f7-4422-ae3a-87803c86017a.jpeg">
-<video alt="Donut rendered video" width="1080" src="/files/1-video-donut0001-0230.mp4">
+<video alt="Donut rendered video" width="1080" src="https://github.com/aidan-j-rhoden/aidan-j-rhoden/raw/full-refactor/files/1-video-donut0001-0230.mp4">
 
 ### Lightpole
 - Created for a Godot project
