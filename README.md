@@ -8,13 +8,17 @@
 ### My inedible donut (#[TheDonutTutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD))
 ![donut-rendered-cycles](https://user-images.githubusercontent.com/70079907/236369526-651af489-b38b-4c68-9072-c686b94570c4.png)
 (more donuts [here](https://photos.app.goo.gl/aC7BMMU5P5ozMJSZ7))
-### A 3D-printable lid for my diffuser
-<img width="600" alt="Dragon head screenshot" src="https://user-images.githubusercontent.com/70079907/236369623-d05c6098-bd6c-4f7b-86e8-727a101b5770.png"><img width="400" alt="A 3D-printed dragon lid for a diffuser" src="https://user-images.githubusercontent.com/70079907/236529556-ab1a0b18-76f7-4422-ae3a-87803c86017a.jpeg">
+### Dragon head
+<img width="600" alt="Dragon head screenshot" src="https://user-images.githubusercontent.com/70079907/236369623-d05c6098-bd6c-4f7b-86e8-727a101b5770.png">
 
 ### Lightpole
 - Created for a Godot project
 - Rendered in 4K; Github limited the upload size.
 <img width="450" alt="Screen Shot 2023-05-04 at 10 22 05 PM" src="https://user-images.githubusercontent.com/70079907/236371360-c7a40110-e4d7-48b7-a9ee-45ab5359c313.png">
+
+## 3D Printing
+### Custom lids for diffusers
+<img width="400" alt="A 3D-printed dragon lid for a diffuser" src="https://user-images.githubusercontent.com/70079907/236529556-ab1a0b18-76f7-4422-ae3a-87803c86017a.jpeg">
 
 ## Godot Works
 ### [Plunger](https://github.com/aidan-j-rhoden/plunger) (*IN PROGRESS*)
