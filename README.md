@@ -23,6 +23,9 @@
 ## 3D Printing
 ### Custom lids for diffusers
 <img width="400" alt="A 3D-printed dragon lid for a diffuser" src="https://user-images.githubusercontent.com/70079907/236529556-ab1a0b18-76f7-4422-ae3a-87803c86017a.jpeg">
+<img width="400" alt="all" src="https://user-images.githubusercontent.com/70079907/236871020-b74a80ad-ed93-4d5e-819c-5e0e385b8c68.jpg">
+<img height="500" alt="dragon_printed" src="https://user-images.githubusercontent.com/70079907/236871050-ed364c01-8749-41ef-91cc-8e2161bb00eb.jpg">
+<video src="https://user-images.githubusercontent.com/70079907/236871072-f7d15b1d-a6d0-4be5-a296-ffee68227690.mp4">
 
 ## Godot Works
 ### [Plunger](https://github.com/aidan-j-rhoden/plunger) (*IN PROGRESS*)
