@@ -8,6 +8,9 @@
 ### My inedible donut (#[TheDonutTutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD))
 ![donut-rendered-cycles](https://user-images.githubusercontent.com/70079907/236369526-651af489-b38b-4c68-9072-c686b94570c4.png)
 (more donuts [here](https://photos.app.goo.gl/aC7BMMU5P5ozMJSZ7))
+### Homework for the Donut Tutorial
+<img alt="cupcake" width="500" src="https://user-images.githubusercontent.com/70079907/236726772-ede1877d-5eca-4eb7-92b5-8d8fd893b28f.png">
+
 ### A 3D-printable lid for my diffuser
 <img width="600" alt="Dragon head screenshot" src="https://user-images.githubusercontent.com/70079907/236369623-d05c6098-bd6c-4f7b-86e8-727a101b5770.png"><img width="400" alt="A 3D-printed dragon lid for a diffuser" src="https://user-images.githubusercontent.com/70079907/236529556-ab1a0b18-76f7-4422-ae3a-87803c86017a.jpeg">
 
