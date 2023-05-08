@@ -9,11 +9,11 @@
 ![donut-rendered-cycles](https://user-images.githubusercontent.com/70079907/236369526-651af489-b38b-4c68-9072-c686b94570c4.png)
 (more donuts [here](https://photos.app.goo.gl/aC7BMMU5P5ozMJSZ7))
 
-### Dragon head
-<img width="600" alt="Dragon head screenshot" src="https://user-images.githubusercontent.com/70079907/236369623-d05c6098-bd6c-4f7b-86e8-727a101b5770.png">
-
 ### Homework for the Donut Tutorial
 <img alt="cupcake" width="500" src="https://user-images.githubusercontent.com/70079907/236726772-ede1877d-5eca-4eb7-92b5-8d8fd893b28f.png">
+
+### Dragon head
+<img width="600" alt="Dragon head screenshot" src="https://user-images.githubusercontent.com/70079907/236369623-d05c6098-bd6c-4f7b-86e8-727a101b5770.png">
 
 ### Lightpole
 - Created for a Godot project
