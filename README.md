@@ -10,7 +10,9 @@
 (more donuts [here](https://photos.app.goo.gl/aC7BMMU5P5ozMJSZ7))
 
 ### Homework for the Donut Tutorial
-<img alt="cupcake" width="500" src="https://user-images.githubusercontent.com/70079907/236726772-ede1877d-5eca-4eb7-92b5-8d8fd893b28f.png">
+<img alt="cupcake" width="300" src="https://user-images.githubusercontent.com/70079907/236726772-ede1877d-5eca-4eb7-92b5-8d8fd893b28f.png">
+<img alt="cupcakes" width="600" src="https://github.com/aidan-j-rhoden/aidan-j-rhoden/assets/70079907/5b9d6a6c-317d-41e1-9564-c2ea4cf95f4e">
+
 
 ### Dragon head
 <img width="600" alt="Dragon head screenshot" src="https://user-images.githubusercontent.com/70079907/236369623-d05c6098-bd6c-4f7b-86e8-727a101b5770.png">
