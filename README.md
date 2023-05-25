@@ -5,6 +5,11 @@
 - You can reach me at aidan.j.rhoden@gmail.com, or on [LinkedIn](https://www.linkedin.com/in/aidan-rhoden-562aa5255/).
 
 ## Blender Works
+### My anvil (#[TheAnvilTutorial](https://www.youtube.com/watch?v=yi87Dap_WOc))
+![0001](https://github.com/aidan-j-rhoden/aidan-j-rhoden/assets/70079907/9c2f333a-bbc0-4839-9cf5-6779fad8da77)
+This anvil has been (mostly) properly retopologized, and uses a normal map generated from a high-poly sculpt to give it the fine details.
+You can view a turntable animation of it [here](https://photos.app.goo.gl/hf7XJtoVinVUs3QB9).
+
 ### My inedible donut (#[TheDonutTutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD))
 ![donut-rendered-cycles](https://user-images.githubusercontent.com/70079907/236369526-651af489-b38b-4c68-9072-c686b94570c4.png)
 (more donuts [here](https://photos.app.goo.gl/aC7BMMU5P5ozMJSZ7))
