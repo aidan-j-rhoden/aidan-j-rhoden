@@ -5,6 +5,10 @@
 - You can reach me at aidan.j.rhoden@gmail.com, or on [LinkedIn](https://www.linkedin.com/in/aidan-rhoden-562aa5255/).
 
 ## Blender Works
+### The Piston Cup
+![piston-cup-cycles-019-hd](https://github.com/aidan-j-rhoden/aidan-j-rhoden/assets/70079907/21d443e4-e8aa-4c9a-8514-5cdc78f7b230)
+Created just for fun after watching Disney's Cars.
+
 ### My anvil (video [here](https://photos.app.goo.gl/hf7XJtoVinVUs3QB9))
 ![0001](https://github.com/aidan-j-rhoden/aidan-j-rhoden/assets/70079907/9c2f333a-bbc0-4839-9cf5-6779fad8da77)
 This anvil has been (mostly) properly retopologized, and uses a normal map generated from a high-poly sculpt to give it the fine details.
