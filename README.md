@@ -19,7 +19,7 @@ This anvil has been (mostly) properly retopologized, and uses a normal map gener
 (#[TheDonutTutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD))
 
 ### Homework for the Donut Tutorial
-<img alt="cupcake" width="300" src="https://user-images.githubusercontent.com/70079907/236726772-ede1877d-5eca-4eb7-92b5-8d8fd893b28f.png">
+<img alt="cupcakes" width="300" src="https://github.com/aidan-j-rhoden/aidan-j-rhoden/assets/70079907/a6db3c09-65ab-462c-acb4-86210fed997a">
 <img alt="cupcakes" width="600" src="https://github.com/aidan-j-rhoden/aidan-j-rhoden/assets/70079907/5b9d6a6c-317d-41e1-9564-c2ea4cf95f4e">
 
 
