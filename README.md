@@ -35,6 +35,8 @@ This anvil has been (mostly) properly retopologized, and uses a normal map gener
 ### [Plunger](https://github.com/aidan-j-rhoden/plunger) (*IN PROGRESS*)
 - A server-authoritative FPS multiplayer
 - Expect a weird and wacky experience as you battle it out with... bathroom supplies.
+### [Santorini](https://github.com/aidan-j-rhoden/Santorini)
+- A 3D-remake of the board game.
 
 ## 3D Printing
 ### Custom lids for diffusers
