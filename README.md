@@ -2,7 +2,7 @@
 - I’m currently learning 3D design, efficient rendering, and animation with [Blender](https://www.blender.org).
 - I love FOSS like the [Godot Engine](https://github.com/godotengine/godot) and Blender!
 - I am certified in [IT and Automation with Python](https://www.coursera.org/account/accomplishments/specialization/certificate/49JQDZ8ZFN9J), through Google's course offered on Coursera.
-- You can reach me at aidan.j.rhoden@gmail.com, or on [LinkedIn](https://www.linkedin.com/in/aidan-rhoden-562aa5255/).
+- You can reach me at aidanrhoden3d@gmail.com, or on [LinkedIn](https://www.linkedin.com/in/aidan-rhoden-562aa5255/).
 
 ## Blender Works
 ### The Piston Cup ([view on ArtStation](https://www.artstation.com/artwork/ob6ekW))
